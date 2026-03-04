@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
 
+# Required: numpy, matplotlib
+
 
 def E_field_point_charges(X, Y, charges):
     Ex, Ey = np.zeros_like(X), np.zeros_like(Y)
@@ -17,7 +19,8 @@ def E_field_point_charges(X, Y, charges):
 
 if __name__ == "__main__":
     # To use, simply define the point charges below. Each charge is a dictionary with keys "q" for charge magnitude and "pos" for position (x, y).
-    # Then run the script
+    # Then choose which quantities to visualize: field lines, field direction, or field magnitude.
+    #
     charges = [
         {"q": 1.0, "pos": np.array([-1.0, -1.0])},
         {"q": 1.0, "pos": np.array([-1.0, 1.0])},
