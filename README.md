@@ -1,14 +1,13 @@
-Welcome to the Github page for Introduction to Physics II exercise classes organized by Efe Ersoy.
+Welcome to the Github page for Introduction to Physics II exercise sessions organized by Efe Ersoy.
 
 ## Organization
 
-- The class takes place in Biozentrum U1.193 from 10:15 to 11:45.
-- For the semester schedule, check the table below.
+- The sessions take place on Tuesdays from 10:15 to 11:45 in Biozentrum U1.193.
 - For questions, contact [efe.ersoy@unibas.ch](mailto:efe.ersoy@unibas.ch).
 
 ## Content
 
-- Here you can find the hand written solutions and some extras (such as python codes, figures, etc.). For each exercise sesion, there will be a separate folder. For easy navigation, you can use the table below. Each exercise session 
+- Here you can find my hand written solutions and some extras (such as python codes, figures, etc.). For each exercise sesion, there will be a separate folder. For easy navigation, use the links in the table below.
 
 
 
