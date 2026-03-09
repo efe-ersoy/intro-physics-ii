@@ -13,7 +13,7 @@ Welcome to the Github page for Introduction to Physics II exercise sessions orga
 
 | Session | Date       | Solutions | Extras |
 | ------- | ---------- | --------- | ------ |
-| 1       | 03/03/2026 | [Solution1.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session1/Solution1.pdf) | [Exercise 1](https://colab.research.google.com/github/efe-ersoy/intro-physics-ii/blob/main/Session1/ex1.ipynb) |
+| 1       | 03/03/2026 | [Solution1.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session1/Solution1.pdf) | [Exercise 1](https://colab.research.google.com/github/efe-ersoy/intro-physics-ii/blob/main/Session1/Extras/ex1.ipynb) |
 | 2       | 10/03/2026 | Solution2.pdf | [Exercise 6](https://colab.research.google.com/github/efe-ersoy/intro-physics-ii/blob/main/Session2/Extras/ex6.ipynb) |
 | 3       | 17/03/2026 | | |
 | 4       | 24/03/2026 | | |
