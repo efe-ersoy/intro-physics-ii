@@ -9,7 +9,7 @@ Welcome to the Github page for Introduction to Physics II exercise sessions orga
 
 - Here you can find my hand written solutions and some extras (such as python codes, figures, etc.). For each exercise sesion, there will be a separate folder. For easy navigation, use the links in the table below.
 
-
+## Schedule
 
 | Session | Date       | Solutions | Extras |
 | ------- | ---------- | --------- | ------ |
