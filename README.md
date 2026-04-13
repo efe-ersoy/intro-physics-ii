@@ -18,9 +18,9 @@ Welcome to the Github page for Introduction to Physics II exercise sessions orga
 | 3       | 17/03/2026 | [Solution3.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session3/Solution3.pdf) | |
 | 4       | 24/03/2026 | [Solution4.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session4/Solution4.pdf) | [Exercise 15 & 16](https://physicstasks.eu/285/the-resistance-of-a-wire-cube) |
 | 5       | 31/03/2026 | [Solution5.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session5/Solution5.pdf) | |
-| -       | 07/04/2026 | | |
+| -       | 07/04/2026 | - | - |
 | 6       | 14/04/2026 | [Solution6.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session6/Solution6.pdf) | |
-| -       | 21/04/2026 | | |
+| -       | 21/04/2026 | - | - |
 | 7       | 28/04/2026 | | |
 | 8       | 05/05/2026 | | |
 | 9       | 12/05/2026 | | |
