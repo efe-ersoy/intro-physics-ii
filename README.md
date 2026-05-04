@@ -22,7 +22,7 @@ Welcome to the Github page for Introduction to Physics II exercise sessions orga
 | 6       | 14/04/2026 | [Solution6.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session6/Solution6.pdf) | |
 | 7       | 21/04/2026 | [Solution7.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session7/Solution7.pdf) | [Exercise 25 (& more)](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html) |
 | -       | 28/04/2026 | - | No class (catch up) |
-| 8       | 05/05/2026 | | |
-| 9      | 12/05/2026 | | |
+| 8       | 05/05/2026 | [Solution8.pdf](https://github.com/efe-ersoy/intro-physics-ii/blob/main/Session8/Solution8.pdf) | |
+| 9       | 12/05/2026 | | |
 | -       | 19/05/2026 | - | No class (Ascension) |
 | 10      | 26/05/2026 | | |
